@@ -8,4 +8,7 @@
          cd node
     
     - Gerar projeto node
-        npm ini
+        npm init
+
+    - Gerar
+        npm install jest @types/jest sonar-scanner --only-dev
