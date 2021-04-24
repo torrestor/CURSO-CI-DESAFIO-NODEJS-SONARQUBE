@@ -17,3 +17,8 @@
             "scripts": {
                 "test": "jest --coverage"
             }   ,
+
+    - executar teste no diretório node
+        npm run test
+            obs.: irá gerar a pasta "coverage" dentro de node e é o arquivo
+            "icov.info" que deve ser enviado para o sonarqube
