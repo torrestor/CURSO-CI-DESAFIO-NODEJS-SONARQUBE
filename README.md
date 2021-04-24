@@ -12,3 +12,8 @@
 
     - Gerar
         npm install jest @types/jest sonar-scanner --only-dev
+
+    - Alterando package.json para
+            "scripts": {
+                "test": "jest --coverage"
+            }   ,
